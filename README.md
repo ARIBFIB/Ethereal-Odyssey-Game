@@ -7,7 +7,7 @@ Youtube Channal link: https://youtu.be/F-uKzMLK46c
 
 Other Screen Shots
 
-** # GO to the abdul branch to download the source code**
+# GO to the abdul branch to download the source code
 
 ![image](https://github.com/ARIBFIB/Ethereal-Odyssey-Game/assets/125716994/cbe4bf90-6bb9-4e93-ad8b-73157d371bb9)
 
