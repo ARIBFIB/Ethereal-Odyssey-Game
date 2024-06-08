@@ -7,7 +7,7 @@ Youtube Channal link: https://youtu.be/F-uKzMLK46c
 
 Other Screen Shots
 
-[Screenshot_20240608-174801](https://github.com/ARIBFIB/Ethereal-Odyssey-Game/assets/125716994/0989511c-4d59-4fd9-a387-c8b68f79db3a =400x300).
+[Screenshot_20240608-174801](https://github.com/ARIBFIB/Ethereal-Odyssey-Game/assets/125716994/0989511c-4d59-4fd9-a387-c8b68f79db3a=400x300).
 
 ![IMG-20240510-WA0012(1)](https://github.com/ARIBFIB/Ethereal-Odyssey-Game/assets/125716994/a9c39a8c-04b1-45d0-b568-3758d6f999b9=40x30) 
 ![object](https://github.com/ARIBFIB/Ethereal-Odyssey-Game/assets/125716994/83f472e7-cf3a-439b-b7f4-a5a1e1d32874) 
