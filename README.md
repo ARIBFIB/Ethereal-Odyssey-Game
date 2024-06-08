@@ -47,7 +47,7 @@ The game features a minimalist user interface, allowing the player to focus on t
 
 Ethereal Odyssey offers a unique and captivating mobile gaming experience, blending serene exploration, stunning visuals, and a calming soundtrack to create a truly immersive and meditative journey. Whether players are seeking a moment of tranquility or an enchanting adventure, Ethereal Odyssey provides a serene and enchanting gaming experience that is sure to leave a lasting impression.
 
-**#Gradle**
+**# Gradle**
 #settings.gradle.kts
 pluginManagement {
     repositories {
@@ -63,7 +63,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-#build.gradle.kts
+
+# build.gradle.kts
+
 plugins {
     id("com.android.application")
 }
@@ -106,7 +108,9 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 }
-#build.gradle.kts
+
+# build.gradle.kts
+
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {
     id("com.android.application") version "8.1.1" apply false
